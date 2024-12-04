@@ -15,7 +15,7 @@
     <description>Components that use EasyOCR to perform OCR on images</description>
 
     <properties>
-      <jackson-version>2.13.2</jackson-version>
+      <jackson-version>2.13.2.1</jackson-version>
     </properties>
 
     <dependencies>
